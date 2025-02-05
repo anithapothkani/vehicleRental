@@ -1,0 +1,30 @@
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\vehicle rental.exe
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\vehicle rental.deps.json
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\vehicle rental.runtimeconfig.json
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\vehicle rental.dll
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\vehicle rental.pdb
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle_rental.Form1.resources
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle rental.csproj.GenerateResource.cache
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle rental.GeneratedMSBuildEditorConfig.editorconfig
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle rental.AssemblyInfoInputs.cache
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle rental.AssemblyInfo.cs
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle rental.csproj.CoreCompileInputs.cache
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle rental.dll
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\refint\vehicle rental.dll
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle rental.pdb
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle rental.genruntimeconfig.cache
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\ref\vehicle rental.dll
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle_rental.Main.resources
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle_rental.Vehiclereg.resources
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\new dotnet projects\vehicle rental\vehicle rental\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle rental.csproj.AssemblyReference.cache
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle .BD365C2C.Up2Date
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle_rental.Customer.resources
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle_rental.rental.resources
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle rental.sourcelink.json
+E:\new dotnet projects\vehicle rental\vehicle rental\obj\Debug\net8.0-windows\vehicle_rental.Returncar.resources
